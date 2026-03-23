@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "web-analyst",
   "version": "0.1.0",
@@ -26,3 +27,32 @@
     "eslint-config-next": "latest"
   }
 }
+=======
+{
+  "name": "web-analyst",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "cheerio": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
+>>>>>>> 3f2e337acfe6c557c22c7fe856cf0926972b4328
